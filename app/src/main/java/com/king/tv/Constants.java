@@ -26,7 +26,7 @@ public final class Constants {
     public static final String KEY_COVER = "key_cover";
 
     /**
-     * showing
+     * showing 11
      */
     public static final String SHOWING = "showing";
 
