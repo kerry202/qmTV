@@ -16,9 +16,8 @@ import com.king.tv.dao.greendao.LiveCategoryDao;
 
 /**
  * {@inheritDoc}
- * @author yangbo
- * @since 2017/9/29
- * @mail 903023560@qq.com
+ * 
+ * @see org.greenrobot.greendao.AbstractDaoSession
  */
 public class DaoSession extends AbstractDaoSession {
 
