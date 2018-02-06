@@ -33,7 +33,7 @@ import butterknife.Unbinder;
  * @author yangbo
  * @since 2017/9/29
  * @mail 903023560@qq.com
- * ..
+ * ....
  */
 
 public abstract class BaseFragment<V extends BaseView, P extends BasePresenter<V>>  extends MvpFragment<V,P>{
